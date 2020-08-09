@@ -1,1 +1,2 @@
-pprint("I am a ")
+print("I am a man")
+1+2
